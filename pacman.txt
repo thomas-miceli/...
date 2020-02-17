@@ -1,9 +1,3 @@
-# pacman -S - < pacman.txt
-# git clone https://aur.archlinux.org/yay.git
-# cd yay
-# makepkg -si
-# yay -S - < pacman.txt
-
 a52dec
 aalib
 accounts-qml-module
@@ -15,10 +9,12 @@ adobe-source-code-pro-fonts
 adwaita-icon-theme
 alsa-firmware
 alsa-lib
+alsa-oss
 alsa-plugins
 alsa-topology-conf
 alsa-ucm-conf
 alsa-utils
+android-studio
 android-tools
 android-udev
 antlr4-runtime
@@ -55,6 +51,7 @@ bash-completion
 bashrc-manjaro
 bauh
 bc
+bcg729
 binutils
 bison
 blas
@@ -203,6 +200,10 @@ ghostscript
 giflib
 gimp
 git
+gitlab
+gitlab-gitaly
+gitlab-shell
+gitlab-workhorse
 glew
 glib-networking
 glib2
@@ -214,6 +215,7 @@ gmp
 gnome-desktop
 gnome-icon-theme
 gnome-icon-theme-symbolic
+gnome-keyring
 gnome-themes-extra
 gnupg
 gnustep-base
@@ -221,6 +223,7 @@ gnutls
 go
 gobject-introspection
 gobject-introspection-runtime
+gogs
 gperftools
 gpgme
 gpm
@@ -297,6 +300,7 @@ intel-media-driver
 intel-media-sdk
 intel-tbb
 intel-ucode
+intellij-idea-ultimate-edition
 intltool
 inxi
 iproute2
@@ -395,6 +399,7 @@ knotifications
 knotifyconfig
 konsole
 konversation
+kotlin
 kpackage
 kparts
 kpeople
@@ -432,6 +437,7 @@ ldns
 lensfun
 less
 lib32-alsa-lib
+lib32-alsa-oss
 lib32-alsa-plugins
 lib32-atk
 lib32-attr
@@ -654,6 +660,7 @@ liblqr
 liblrdf
 libmad
 libmatroska
+libmaxminddb
 libmbim
 libmfx
 libmm-glib
@@ -814,6 +821,7 @@ logrotate
 lsb-release
 lsof
 lua
+lua52
 luajit
 lv2
 lvm2
@@ -980,6 +988,7 @@ perl-http-daemon
 perl-http-date
 perl-http-message
 perl-http-negotiate
+perl-image-exiftool
 perl-io-html
 perl-ipc-system-simple
 perl-libwww
@@ -1059,6 +1068,7 @@ pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
 pulseaudio-ctl
+pulseaudio-equalizer
 pulseaudio-jack
 pulseaudio-lirc
 pulseaudio-qt
@@ -1107,6 +1117,7 @@ python-pycurl
 python-pymongo
 python-pyparsing
 python-pyqt5
+python-pyqt5-sip
 python-pysmbc
 python-pytoml
 python-regex
@@ -1114,6 +1125,7 @@ python-reportlab
 python-requests
 python-retrying
 python-setuptools
+python-sip
 python-sip-pyqt5
 python-six
 python-urllib3
@@ -1122,10 +1134,16 @@ python-xdg
 python-yaml
 python-zipp
 python2
+python2-appdirs
 python2-cairo
 python2-gobject2
+python2-ordered-set
+python2-packaging
 python2-pexpect
 python2-ptyprocess
+python2-pyparsing
+python2-setuptools
+python2-six
 qbittorrent
 qbs
 qca
@@ -1160,6 +1178,7 @@ rapidjson
 raptor
 re2
 readline
+redis
 redshift
 reiserfsprogs
 rest
@@ -1311,6 +1330,8 @@ which
 whois
 wildmidi
 wireless-regdb
+wireshark-cli
+wireshark-qt
 woff2
 wpa_supplicant
 wpebackend-fdo
@@ -1327,6 +1348,7 @@ xcb-util-keysyms
 xcb-util-renderutil
 xcb-util-wm
 xcb-util-xrm
+xdebug
 xdg-dbus-proxy
 xdg-desktop-portal
 xdg-desktop-portal-kde
