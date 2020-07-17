@@ -124,6 +124,7 @@ db
 dbus
 dbus-glib
 dconf
+deno-bin
 desktop-file-utils
 desmume
 device-mapper
@@ -219,7 +220,6 @@ ghostscript
 giflib
 gimp
 git
-gitkraken
 gitlab
 gitlab-gitaly
 gitlab-shell
@@ -522,6 +522,7 @@ lib32-libglvnd
 lib32-libgpg-error
 lib32-libice
 lib32-libidn
+lib32-libidn2
 lib32-libindicator-gtk2
 lib32-libinstpatch
 lib32-libjpeg-turbo
@@ -539,6 +540,7 @@ lib32-libsndfile
 lib32-libtasn1
 lib32-libthai
 lib32-libtiff
+lib32-libunistring
 lib32-libunwind
 lib32-libusb
 lib32-libva
@@ -856,6 +858,7 @@ linux54
 linux54-bbswitch
 linux54-nvidia-430xx
 lirc
+llvm
 llvm-libs
 lm_sensors
 lmdb
@@ -867,6 +870,7 @@ lua52
 luajit
 lv2
 lvm2
+lynx
 lz4
 lzo
 m4
@@ -901,6 +905,7 @@ md4c
 mdadm
 media-player-info
 memtest86+
+mercure
 mercurial
 mesa
 mesa-demos
@@ -917,7 +922,6 @@ mhwd-nvidia-430xx
 mhwd-nvidia-435xx
 mhwd-nvidia-440xx
 milou
-minecraft
 minizip
 mjpegtools
 mkinitcpio
@@ -1112,6 +1116,7 @@ popt
 portaudio
 postgresql
 postgresql-libs
+postman-bin
 powerdevil
 powertop
 ppp
@@ -1447,6 +1452,7 @@ xf86-video-intel
 xfsprogs
 xkeyboard-config
 xmlsec
+xmlto
 xorg-bdftopcf
 xorg-font-util
 xorg-font-utils
