@@ -101,6 +101,7 @@ cinnamon-translations
 ckbcomp
 clang
 clazy
+clion
 cmake
 code
 colord
@@ -125,8 +126,10 @@ curl
 cyrus-sasl
 dav1d
 db
+dbeaver
 dbus
 dbus-glib
+dbus-python
 dconf
 ddcutil
 deno-bin
@@ -164,6 +167,7 @@ efivar
 egl-wayland
 eglexternalplatform
 electron
+electron11
 electron4
 electron6
 electron7
@@ -251,6 +255,7 @@ gnome-color-manager
 gnome-desktop
 gnome-icon-theme
 gnome-icon-theme-symbolic
+gnome-keyring
 gnome-online-accounts
 gnome-themes-extra
 gnupg
@@ -338,6 +343,7 @@ ijs
 illyria-wallpaper
 imagemagick
 imagewriter
+imath
 imlib2
 inetutils
 iniparser
@@ -541,8 +547,6 @@ lib32-krb5
 lib32-lcms2
 lib32-libasyncns
 lib32-libcanberra
-lib32-libcanberra-gstreamer
-lib32-libcanberra-pulse
 lib32-libcap
 lib32-libcups
 lib32-libdatrie
@@ -662,6 +666,7 @@ libasyncns
 libatasmart
 libatomic_ops
 libavc1394
+libavif
 libavtp
 libblockdev
 libbluray
@@ -670,8 +675,6 @@ libbsd
 libbytesize
 libcaca
 libcanberra
-libcanberra-gstreamer
-libcanberra-pulse
 libcap
 libcap-ng
 libcddb
@@ -763,6 +766,7 @@ liblqr
 liblrdf
 liblzf
 libmad
+libmanette
 libmatroska
 libmaxminddb
 libmbim
@@ -910,6 +914,7 @@ libxv
 libxxf86dga
 libxxf86vm
 libyaml
+libyuv
 libzip
 licenses
 lilv
@@ -1272,11 +1277,10 @@ python-configobj
 python-contextlib2
 python-cryptography
 python-dateutil
-python-dbus
-python-dbus-common
 python-distlib
 python-distro
 python-distutils-extra
+python-dnspython
 python-docker
 python-docker-pycreds
 python-dockerpty
@@ -1365,6 +1369,7 @@ qt5-graphicaleffects
 qt5-imageformats
 qt5-location
 qt5-multimedia
+qt5-networkauth
 qt5-quick3d
 qt5-quickcontrols
 qt5-quickcontrols2
@@ -1411,6 +1416,7 @@ ruby-rack
 ruby-rdoc
 ruby-reline
 ruby-thor
+ruby2.7
 rubygems
 run-parts
 runc
@@ -1474,6 +1480,7 @@ stripe-cli
 subversion
 sudo
 suitesparse
+svt-av1
 svt-hevc
 swagger-codegen
 swh-plugins
@@ -1537,9 +1544,6 @@ vi
 vid.stab
 vim
 vim-runtime
-virtualbox
-virtualbox-guest-dkms
-virtualbox-host-dkms
 virtualgl
 vlc
 vmaf
@@ -1641,6 +1645,7 @@ yubikey-personalization
 zbar
 zenity
 zeromq
+zimg
 zip
 zita-alsa-pcmi
 zita-resampler
