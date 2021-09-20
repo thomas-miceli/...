@@ -17,7 +17,6 @@ alsa-ucm-conf
 alsa-utils
 amtk
 android-file-transfer
-android-studio
 android-tools
 android-udev
 antlr4-runtime
@@ -101,7 +100,6 @@ cinnamon-translations
 ckbcomp
 clang
 clazy
-clion
 cmake
 code
 colord
@@ -132,7 +130,6 @@ dbus-glib
 dbus-python
 dconf
 ddcutil
-deno-bin
 desktop-file-utils
 desmume
 device-mapper
@@ -168,9 +165,6 @@ egl-wayland
 eglexternalplatform
 electron
 electron11
-electron4
-electron6
-electron7
 electron9
 elfutils
 emacs
@@ -264,7 +258,6 @@ gnutls
 go
 gobject-introspection
 gobject-introspection-runtime
-goland
 gperftools
 gpgme
 gpm
@@ -298,7 +291,6 @@ gtk-update-icon-cache
 gtk2
 gtk3
 gtkmm3
-gtksourceview2
 gtksourceview4
 gts
 guile
@@ -351,7 +343,6 @@ intel-gmmlib
 intel-media-driver
 intel-media-sdk
 intel-ucode
-intellij-idea-ultimate-edition
 intltool
 inxi
 iproute2
@@ -375,7 +366,6 @@ jre11-openjdk
 jre11-openjdk-headless
 jre8-openjdk
 jre8-openjdk-headless
-js60
 js68
 js78
 json-c
@@ -390,7 +380,6 @@ kamera
 karchive
 kate
 kauth
-kazam
 kbd
 kbookmarks
 kcalc
@@ -465,7 +454,6 @@ kpackage
 kparts
 kpeople
 kpeoplevcard
-kpmcore3
 kpty
 kquickcharts
 krb5
@@ -721,7 +709,6 @@ libgcrypt
 libgdiplus
 libgexiv2
 libgit2
-libglade
 libglvnd
 libgme
 libgnome-keyring
@@ -802,7 +789,6 @@ libnsl
 libofa
 libogg
 libomxil-bellagio
-libopenaptx
 libotf
 libp11-kit
 libpaper
@@ -922,11 +908,6 @@ linux-api-headers
 linux-firmware
 linux54
 linux54-nvidia
-linux54-rt
-linux54-rt-virtualbox-guest-modules
-linux54-rt-virtualbox-host-modules
-linux54-virtualbox-guest-modules
-linux54-virtualbox-host-modules
 lirc
 llvm
 llvm-libs
@@ -971,14 +952,12 @@ manjaro-system
 manjaro-wallpapers-18.0
 mariadb
 mariadb-clients
-mariadb-jdbc
 mariadb-libs
 maven
 md4c
 mdadm
 media-player-info
 memtest86+
-mercure
 mercurial
 mesa
 mesa-demos
@@ -986,10 +965,8 @@ metis
 mhwd
 mhwd-amdgpu
 mhwd-ati
-mhwd-catalyst
 mhwd-db
 mhwd-nvidia
-mhwd-nvidia-340xx
 mhwd-nvidia-390xx
 milou
 minizip
@@ -1001,11 +978,8 @@ mlt
 mobile-broadband-provider-info
 modemmanager
 modemmanager-qt
-mongodb-bin
-mongodb-compass-isolated-bin
 mono
 mono-addins
-mozilla-common
 mpfr
 mpg123
 mtdev
@@ -1015,11 +989,9 @@ mysql-python
 mysql-workbench
 nano
 ncurses
-ncurses5-compat-libs
 ndctl
 neofetch
 neon
-nerd-fonts-fira-code
 net-snmp
 netpbm
 nettle
@@ -1032,7 +1004,6 @@ networkmanager-vpnc
 nfs-utils
 nfsidmap
 nginx
-ngrok-bin
 nm-connection-editor
 node-gyp
 nodejs
@@ -1073,7 +1044,6 @@ openssl-1.0
 openvpn
 opera-ffmpeg-codecs
 optimus-manager
-optimus-manager-qt
 opus
 orc
 os-prober
@@ -1100,7 +1070,6 @@ pcre
 pcre2
 pcsclite
 peek
-pepper-flash
 perf
 perl
 perl-alien-build
@@ -1148,9 +1117,7 @@ phonon-qt5-gstreamer
 php
 php-apache
 php-apcu
-php-apcu-bc
 php-cgi
-php-codesniffer
 php-dblib
 php-embed
 php-enchant
@@ -1204,16 +1171,12 @@ php7-sodium
 php7-sqlite
 php7-tidy
 php7-xsl
-php80
-phpdoc-phar
-phpstorm
 pinentry
 pinta
 pipewire
 pixman
 pkcs11-helper
 pkgconf
-plasma-desktop-primex
 plasma-framework
 plasma-integration
 plasma-nm
@@ -1234,7 +1197,6 @@ portaudio
 postfix
 postgresql
 postgresql-libs
-postman-bin
 powerdevil
 powertop
 ppp
@@ -1257,7 +1219,6 @@ pulseaudio-qt
 pulseaudio-rtp
 pulseaudio-zeroconf
 purpose
-pygtk
 python
 python-appdirs
 python-asn1crypto
@@ -1331,7 +1292,6 @@ python-requests
 python-resolvelib
 python-retrying
 python-setuptools
-python-sip-pyqt5
 python-sip4
 python-six
 python-texttable
@@ -1344,7 +1304,6 @@ python-zipp
 python2
 python2-appdirs
 python2-cairo
-python2-gobject2
 python2-numpy
 python2-ordered-set
 python2-packaging
@@ -1464,9 +1423,6 @@ speex
 speexdsp
 spirv-tools
 splix
-spotify
-spotify-adblock-linux
-spotify-tui
 sqlite
 sqlitebrowser
 squashfs-tools
@@ -1476,13 +1432,11 @@ sshfs
 startup-notification
 steam-manjaro
 stoken
-stripe-cli
 subversion
 sudo
 suitesparse
 svt-av1
 svt-hevc
-swagger-codegen
 swh-plugins
 syntax-highlighting
 sysfsutils
@@ -1562,7 +1516,6 @@ wayland-protocols
 web-installer-url-handler
 webkit2gtk
 webrtc-audio-processing
-webstorm
 wget
 which
 whois
@@ -1592,14 +1545,11 @@ xdebug
 xdg-dbus-proxy
 xdg-desktop-portal
 xdg-desktop-portal-kde
-xdg-su
 xdg-user-dirs
 xdg-utils
 xf86-input-elographics
 xf86-input-evdev
-xf86-input-keyboard
 xf86-input-libinput
-xf86-input-mouse
 xf86-input-void
 xf86-video-nouveau
 xfsprogs
@@ -1608,8 +1558,6 @@ xmlsec
 xmlto
 xorg-bdftopcf
 xorg-font-util
-xorg-font-utils
-xorg-fonts-alias
 xorg-fonts-encodings
 xorg-mkfontscale
 xorg-server
